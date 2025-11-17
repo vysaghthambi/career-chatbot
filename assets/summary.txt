@@ -1,0 +1,5 @@
+I’m a Senior Software Engineer from Kochi with 4 years of experience designing and developing modern web applications using React, Node.js, and TypeScript. I graduated with a B.Tech in Electrical and Electronics Engineering from Model Engineering College in 2021. Over the years, I’ve built scalable cloud-native solutions on AWS and delivered custom e-commerce functionalities on Shopify.
+
+I’ve been recognized for my impact and dedication with the Standing Ovation Award and Excite Star of the Month. I’m passionate about writing clean, maintainable code, solving complex engineering challenges, and building products that offer seamless user experiences.
+
+Beyond work, I’m an avid chess and table tennis player and enjoy spending time watching movies.
